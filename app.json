@@ -1,7 +1,7 @@
 {
   "id": "b657d2d8-d869-44f8-947d-58e591af5c4a",
-  "name": "ALProject2",
-  "publisher": "Default publisher",
+  "name": "GreenLeaf",
+  "publisher": "B2B Software Technologies",
   "version": "1.0.0.0",
   "brief": "",
   "description": "",
@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "1b1f1ff9-fc0c-4b3b-a8a6-4c439ede0801",
+      "name": "B2B Quality Control",
+      "publisher": "B2B Software Technologies Limited",
+      "version": "1.0.0.3"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "20.0.0.0",
